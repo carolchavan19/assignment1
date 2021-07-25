@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assignment1/static/css/main.7a694bef.chunk.css",
+    "main.js": "/assignment1/static/js/main.685e7545.chunk.js",
+    "main.js.map": "/assignment1/static/js/main.685e7545.chunk.js.map",
+    "runtime-main.js": "/assignment1/static/js/runtime-main.cb07d542.js",
+    "runtime-main.js.map": "/assignment1/static/js/runtime-main.cb07d542.js.map",
+    "static/js/2.ead92ae6.chunk.js": "/assignment1/static/js/2.ead92ae6.chunk.js",
+    "static/js/2.ead92ae6.chunk.js.map": "/assignment1/static/js/2.ead92ae6.chunk.js.map",
+    "index.html": "/assignment1/index.html",
+    "static/css/main.7a694bef.chunk.css.map": "/assignment1/static/css/main.7a694bef.chunk.css.map",
+    "static/js/2.ead92ae6.chunk.js.LICENSE.txt": "/assignment1/static/js/2.ead92ae6.chunk.js.LICENSE.txt",
+    "static/media/kungfu.0911d099.png": "/assignment1/static/media/kungfu.0911d099.png",
+    "static/media/kungfu2.94e28bbf.jpg": "/assignment1/static/media/kungfu2.94e28bbf.jpg",
+    "static/media/kungfu3.f1e2b59a.jpg": "/assignment1/static/media/kungfu3.f1e2b59a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb07d542.js",
+    "static/js/2.ead92ae6.chunk.js",
+    "static/css/main.7a694bef.chunk.css",
+    "static/js/main.685e7545.chunk.js"
+  ]
+}
